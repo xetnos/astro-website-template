@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Sue+Ellen+Francisco&display=swap');
+
+header .container {
+	position: sticky;
+	position: -webkit-sticky;
+	top: 0;
+}
+
+#site-title span {
+	font-weight: bold;
+	font-family: 'Sue Ellen Francisco', cursive;;
+}
